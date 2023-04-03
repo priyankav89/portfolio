@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 ## Description
 
 This Portfolio is created for a candidate so that the employer can review and assess the work samples to check whether he/she is a good candidate for an open position
